@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">M&amp;P Store</string>
+
+    <string name="title_browse">Browse</string>
+    <string name="title_search">Search</string>
+    <string name="title_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
